@@ -2,7 +2,7 @@
 #### Me chamo Vitor, sou Desenvolvedor Front-end 💻
 #### ...Estudando JavaScript 📘
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viteydev&layout=compact&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viteydev&layout=default&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
 ##
 ### Tecnologias:
 <div style="display:inline-block;"<br/>
