@@ -14,9 +14,6 @@
   
 ##
 
-<!-- 
 ### Meu portifólio
 -[Portifólio]()
 
-### Projetos que ja participei:
-- [Sakura X Clash]()-->
