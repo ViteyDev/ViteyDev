@@ -15,5 +15,5 @@
 ##
 
 ### Meu portifólio
--[Portifólio](https://github.com/viteydev)
+-[Portifólio](https://viteydev.github.io/portifolio/)
 
