@@ -1,6 +1,6 @@
 ### Olá, Bem vindo ao meu perfil 🖐️
 #### Me chamo Vitor, sou Desenvolvedor Front-end 💻
-#### ...Estudando JavaScript 📘
+#### ...Estudando React 📘
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viteydev&layout=default&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
 ##
