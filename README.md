@@ -1,6 +1,7 @@
 ### Olá, Bem vindo ao meu perfil 🖐️
 #### Me chamo Vitor, sou Desenvolvedor Front-end 💻
 #### ...Estudando React 📘
+<a href="https://www.linkedin.com/in/vitor-lemos-1a61b3238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"/></a>
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viteydev&layout=default&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
 ##
@@ -13,8 +14,6 @@
 </div><br/>
   Gosto de como a programação nos da liberdade para criar coisas incriveis.
   
-<a href="https://www.linkedin.com/in/vitor-lemos-1a61b3238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"/></a>
-
 ##
 
 ### Meu portifólio
