@@ -14,7 +14,9 @@
   Gosto de como a programação nos da liberdade para criar coisas incriveis.
   
 ##
-
+### Linkedin
+  -[linkedin](https://www.linkedin.com/in/vitor-lemos-1a61b3238/)
+  
 ### Meu portifólio
 -[Portifólio](https://viteydev.github.io/portifolio/)
 
