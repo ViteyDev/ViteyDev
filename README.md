@@ -3,7 +3,7 @@
 #### ...Estudando Redux 📘
 <a href="https://www.linkedin.com/in/vitor-lemos-1a61b3238"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"/></a>
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viteydev&layout=default&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsenvolvedor&layout=default&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
 ##
 ### Tecnologias:
 <div style="display:inline-block;"<br/>
