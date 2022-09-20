@@ -1,7 +1,6 @@
 ### Olá, Bem vindo ao meu perfil 🖐️
 #### Me chamo Vitor, sou estudante em Desenvolvimento Front-end 💻
-<!-- #### ...Estudando SASS 📘 -->
-<a href="https://www.linkedin.com/in/lem-vitor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"/></a>
+<!-- #### ...Estudando Next 📘 -->
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsenvolvedor&layout=default&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
 ##
