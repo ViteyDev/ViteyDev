@@ -2,8 +2,6 @@
 #### Me chamo Vitor, sou estudante em Desenvolvimento Front-end 💻
 #### ...Estudando Next 📘
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsenvolvedor&layout=default&custom_title=Linguagens_Mais_Usadas&theme=github_dark)](https://github.com/viteydev)
-##
 ### Tecnologias:
 <div style="display:inline-block;"<br/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
