@@ -13,4 +13,5 @@
 </div>
 
 ### Veja mais sobre no meu portifólio
--[Portifólio](https://vsenvolvedor.github.io/Portifolio-2.0/)
+<a href="https://vsenvolvedor.github.io/Portifolio-2.0/" target="_blank" >-Portifólio</a>
+
